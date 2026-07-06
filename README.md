@@ -30,52 +30,58 @@ Saya percaya bahwa teknologi bukan hanya tentang menulis kode, tetapi juga tenta
 # Proyek Unggulan
 
 ## 🚦 Smart Railway Gate
+Sistem palang pintu kereta otomatis berbasis Internet of Things (IoT) yang mampu melakukan deteksi kereta secara real-time menggunakan sensor ultrasonik dan komunikasi MQTT.
 
-Sistem palang pintu kereta otomatis berbasis IoT yang memanfaatkan ESP32, MQTT, sensor ultrasonik, servo, buzzer, dan LCD untuk melakukan monitoring dan otomatisasi secara real-time.
+**Peran**
+IoT Developer
 
 **Teknologi**
+`ESP32` `Arduino` `MQTT` `Servo` `LCD I2C`
 
-`ESP32` • `Arduino` • `MQTT` • `C++` • `LCD I2C`
+🔗 Repository  
+https://github.com/feya19/SmartRail
 
 ---
 
-## 🏢 FixIT – Facility Management System
+## 🏢 FixIT – Aplikasi Manajemen Fasilitas
+Aplikasi berbasis web untuk pengelolaan laporan kerusakan fasilitas kampus, penugasan teknisi, monitoring progres, hingga dashboard administrator.
 
-Aplikasi manajemen fasilitas kampus yang digunakan untuk pelaporan kerusakan, penugasan teknisi, monitoring progres, serta pengelolaan data fasilitas.
+**Peran**
+Full Stack Developer
 
 **Teknologi**
+`Laravel` `PHP` `MySQL` `Bootstrap` `AJAX`
 
-`Laravel` • `PHP` • `MySQL` • `Bootstrap` • `AJAX`
+🔗 Repository  
+https://github.com/aslamrosul/FixIT-Aplikasi_Manajemen_Fasilitas
 
 ---
 
-## 💳 Point of Sale System
+## 🏘️ WargaGO
+Platform layanan digital untuk membantu administrasi dan pelayanan masyarakat di tingkat lingkungan secara lebih efektif dan terintegrasi.
 
-Aplikasi Point of Sale yang mendukung transaksi, pengelolaan stok barang, laporan penjualan, dan manajemen pengguna.
+**Peran**
+Full Stack Developer
 
 **Teknologi**
+`Laravel` `MySQL` `Bootstrap`
 
-`Laravel` • `PHP` • `MySQL`
+🔗 Repository  
+https://github.com/WARGAGO/WargaGO
 
 ---
 
-## 🤖 Machine Learning
+## 🎓 Sistem Bebas Tanggungan TA
+Sistem informasi untuk membantu proses administrasi bebas tanggungan mahasiswa sebelum menyelesaikan studi.
 
-Implementasi machine learning untuk analisis data dan sistem pendukung keputusan menggunakan berbagai algoritma klasifikasi dan prediksi.
-
-**Teknologi**
-
-`Python` • `Pandas` • `Scikit-Learn`
-
----
-
-## 📱 Mobile Development
-
-Pengembangan aplikasi mobile dengan fokus pada antarmuka pengguna yang responsif dan integrasi layanan backend.
+**Peran**
+Backend Developer
 
 **Teknologi**
+`Laravel` `PHP` `MySQL`
 
-`Flutter` • `Firebase`
+🔗 Repository  
+https://github.com/RanggaPtr/SISTEM-BEBAS-TANGGUNGAN-TA-KELOMPOK-6
 
 ---
 

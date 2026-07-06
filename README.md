@@ -2,119 +2,123 @@
 
 # Damar Galih Fitrianto
 
-**Software Engineer • Full Stack Developer • IoT Enthusiast**
+### Software Engineer • Full Stack Developer • IoT Enthusiast
 
-Building digital solutions through web applications, Internet of Things, and software engineering.
+Membangun solusi digital melalui pengembangan aplikasi web, Internet of Things (IoT), dan rekayasa perangkat lunak.
 
-[LinkedIn](https://www.linkedin.com/in/damar-galih-a560652a3) •
-[GitHub](https://github.com/DmarGalee)
+<p>
+  <a href="https://github.com/DmarGalee">
+    <img src="https://img.shields.io/badge/GitHub-DmarGalee-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/damar-galih-a560652a3">
+    <img src="https://img.shields.io/badge/LinkedIn-Damar_Galih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About
+# Tentang Saya
 
-I'm an Informatics Engineering student at **Politeknik Negeri Malang** with a passion for building software that creates real impact.
+Saya adalah mahasiswa **D4 Teknik Informatika Politeknik Negeri Malang** yang memiliki ketertarikan pada pengembangan perangkat lunak, Full Stack Development, Internet of Things (IoT), serta pengembangan aplikasi mobile.
 
-My interests lie in developing reliable web applications, IoT-based automation systems, and modern software solutions with a focus on clean architecture, scalability, and user experience.
-
-Rather than only completing projects, I enjoy understanding problems, designing solutions, and continuously improving my engineering skills.
+Saya percaya bahwa teknologi bukan hanya tentang menulis kode, tetapi juga tentang merancang solusi yang dapat memberikan manfaat nyata, mudah digunakan, dan mudah dikembangkan di masa mendatang.
 
 ---
 
-## Selected Projects
+# Proyek Unggulan
 
-### 🚦 Smart Railway Gate
+## 🚦 Smart Railway Gate
 
-IoT-based automatic railway crossing system using ESP32, MQTT, ultrasonic sensors, servo motors, and LCD display for real-time monitoring and automation.
+Sistem palang pintu kereta otomatis berbasis IoT yang memanfaatkan ESP32, MQTT, sensor ultrasonik, servo, buzzer, dan LCD untuk melakukan monitoring dan otomatisasi secara real-time.
 
-**Tech**
+**Teknologi**
 
-`ESP32` `MQTT` `Arduino` `C++` `LCD I2C`
-
----
-
-### 🏢 FixIT — Facility Management System
-
-A web-based facility management platform for reporting, tracking, and managing maintenance requests with technician assignment and dashboard monitoring.
-
-**Tech**
-
-`Laravel` `PHP` `MySQL` `Bootstrap` `AJAX`
+`ESP32` • `Arduino` • `MQTT` • `C++` • `LCD I2C`
 
 ---
 
-### 💳 Point of Sale System
+## 🏢 FixIT – Facility Management System
 
-Inventory and transaction management system with reporting features designed for retail environments.
+Aplikasi manajemen fasilitas kampus yang digunakan untuk pelaporan kerusakan, penugasan teknisi, monitoring progres, serta pengelolaan data fasilitas.
 
-**Tech**
+**Teknologi**
 
-`Laravel` `PHP` `MySQL`
-
----
-
-### 🤖 Machine Learning
-
-Machine learning implementation for predictive analysis and decision support using supervised learning techniques.
-
-**Tech**
-
-`Python` `Pandas` `Scikit-learn`
+`Laravel` • `PHP` • `MySQL` • `Bootstrap` • `AJAX`
 
 ---
 
-### 📱 Mobile Development
+## 💳 Point of Sale System
 
-Mobile application development focusing on responsive UI, Firebase integration, and Android deployment.
+Aplikasi Point of Sale yang mendukung transaksi, pengelolaan stok barang, laporan penjualan, dan manajemen pengguna.
 
-**Tech**
+**Teknologi**
 
-`Flutter` `Firebase`
+`Laravel` • `PHP` • `MySQL`
 
 ---
 
-## Technical Stack
+## 🤖 Machine Learning
 
-### Languages
+Implementasi machine learning untuk analisis data dan sistem pendukung keputusan menggunakan berbagai algoritma klasifikasi dan prediksi.
 
-PHP • Java • Python • JavaScript • Dart • C++
+**Teknologi**
 
-### Frameworks
+`Python` • `Pandas` • `Scikit-Learn`
 
-Laravel • Flutter • Bootstrap
+---
+
+## 📱 Mobile Development
+
+Pengembangan aplikasi mobile dengan fokus pada antarmuka pengguna yang responsif dan integrasi layanan backend.
+
+**Teknologi**
+
+`Flutter` • `Firebase`
+
+---
+
+# Keahlian Teknis
+
+### Bahasa Pemrograman
+
+`PHP` • `Java` • `Python` • `JavaScript` • `Dart` • `C++`
+
+### Framework
+
+`Laravel` • `Flutter` • `Bootstrap`
 
 ### Database
 
-MySQL • SQL Server • MongoDB
+`MySQL` • `SQL Server` • `MongoDB`
 
 ### Tools
 
-Git • GitHub • Docker • Linux • VS Code • Postman • Figma
+`Git` • `GitHub` • `Docker` • `Linux` • `VS Code` • `Postman` • `Figma`
 
 ---
 
-## Engineering Interests
+# Bidang yang Saya Tekuni
 
 - Full Stack Development
-- Internet of Things
-- Software Architecture
+- Internet of Things (IoT)
+- Mobile Development
+- Machine Learning
 - REST API Development
 - Database Design
-- Mobile Development
-- Cloud Computing
-- Machine Learning
+- Software Engineering
+- UI/UX Implementation
 
 ---
 
-## GitHub Overview
+# Statistik GitHub
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DmarGalee&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DmarGalee&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmarGalee&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmarGalee&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -126,38 +130,39 @@ Git • GitHub • Docker • Linux • VS Code • Postman • Figma
 
 ---
 
-## Currently Learning
+# Sedang Dipelajari
 
-- Software Design Patterns
-- Cloud & DevOps
+- Software Architecture
+- Design Pattern
+- Cloud Computing
+- DevOps
 - Advanced Flutter
-- Scalable Backend Architecture
-- AI-assisted Software Development
+- Artificial Intelligence
 
 ---
 
-## Contact
+# Kontak
 
-**Name**
+**Nama**
 
 Damar Galih Fitrianto
-
-**LinkedIn**
-
-https://www.linkedin.com/in/damar-galih-a560652a3
 
 **GitHub**
 
 https://github.com/DmarGalee
 
-**Phone**
+**LinkedIn**
 
-+62 898-3313-547
+https://www.linkedin.com/in/damar-galih-a560652a3
+
+**Telepon**
+
+0898-3313-547
 
 ---
 
 <div align="center">
 
-*"I believe great software is built not only with code, but with thoughtful design, collaboration, and continuous learning."*
+### *"Terus belajar, terus berkembang, dan membangun solusi yang memberikan dampak nyata."*
 
 </div>

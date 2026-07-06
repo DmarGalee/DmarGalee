@@ -57,16 +57,28 @@ https://github.com/aslamrosul/FixIT-Aplikasi_Manajemen_Fasilitas
 
 ---
 
-## 🏘️ WargaGO
-Platform layanan digital untuk membantu administrasi dan pelayanan masyarakat di tingkat lingkungan secara lebih efektif dan terintegrasi.
+## 🏘️ WargaGO – Platform Digital RT/RW
+
+Aplikasi mobile **mobile-first** yang dirancang untuk mendigitalisasi pengelolaan lingkungan RT/RW di Indonesia. WargaGO mengintegrasikan administrasi, komunikasi, keuangan, serta layanan komunitas dalam satu platform sehingga proses pengelolaan lingkungan menjadi lebih praktis, transparan, dan efisien.
+
+### Fitur Utama
+
+- 🧾 Manajemen data dan administrasi warga
+- 💰 Pengelolaan keuangan dan pembayaran iuran
+- 📅 Agenda, rapat, dan pengumuman
+- 🗳️ Polling dan voting warga
+- 🛒 Marketplace internal antar warga
+- 📊 Dashboard dan laporan keuangan
 
 **Peran**
-Full Stack Developer
+
+Full Stack Mobile Developer
 
 **Teknologi**
-`Laravel` `MySQL` `Bootstrap`
 
-🔗 Repository  
+`Flutter` • `Firebase` • `Laravel API` • `REST API`
+
+🔗 **Repository**  
 https://github.com/WARGAGO/WargaGO
 
 ---
